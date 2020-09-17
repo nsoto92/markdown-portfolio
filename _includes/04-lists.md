@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### Favorite Games
+- Xbox
+  - Halo
+  - Gears
+  
+ - PS4
+  - God of War
+  - Fall Guys
