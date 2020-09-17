@@ -4,5 +4,5 @@
   - Gears
   
  - PS4
-  - God of War
-  - Fall Guys
+   - God of War
+   - Fall Guys
